@@ -9,6 +9,7 @@
 
 | 日期       | 论文名称                                                     | 期刊/会议                                                    | 年份  | 论文                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ------------------------------------------------------------ |
+| 2026-10-18 | CLM: Removing the GPU Memory Barrier for 3D Gaussian Splatting | ASPLOS | 2026 | [PDF](论文库/论文列表/CLM%20-%20Removing%20the%20GPU%20Memory%20Barrier%20for%203D%20Gaussian%20Splatting_ASPLOS_2026.pdf) |
 | 2026-10-17 | POT-SAM3: Prompt-Only Tuning for One-Shot Electron Microscopy Segmentation | MICCAI | 2026 | [PDF](论文库/论文列表/POT-SAM3%20-%20Prompt-Only%20Tuning%20for%20One-Shot%20Electron%20Microscopy%20Segmentation_MICCAI_2026.pdf) |
 | 2026-10-17 | MedSAMix: A Training-Free Model Merging Approach for Medical Image Segmentation | AAAI | 2026 | [PDF](论文库/论文列表/MedSAMix%20-%20A%20Training-Free%20Model%20Merging%20Approach%20for%20Medical%20Image%20Segmentation_AAAI_2026.pdf) |
 | 2026-10-17 | DiCoP-SAM: Disagreement-Band Guided Corrective Prompting for Collaborative Semi-Supervised Medical Image Segmentation | MICCAI | 2026 | [PDF](论文库/论文列表/DiCoP-SAM%20-%20Disagreement-Band%20Guided%20Corrective%20Prompting%20for%20Collaborative%20Semi-Supervised%20Medical%20Image%20Segmentation_MICCAI_2026.pdf) |
